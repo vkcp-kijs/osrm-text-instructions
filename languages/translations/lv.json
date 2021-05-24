@@ -162,9 +162,9 @@
         },
         "depart": {
             "default": {
-                "default": "Brauciet virzienā {direction}",
-                "name": "Brauciet virzienā {direction} pa {way_name:accusative}",
-                "namedistance": "Brauciet {distance} virzienā {direction} pa {way_name:accusative}"
+                "default": "Brauciet {direction} virzienā",
+                "name": "Brauciet {direction} virzienā pa {way_name:accusative}",
+                "namedistance": "Brauciet {distance} {direction} virzienā pa {way_name:accusative}"
             }
         },
         "end of road": {
