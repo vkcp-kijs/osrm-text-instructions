@@ -401,7 +401,13 @@ const grammarTests = {
         ['Stacijas tunelis', 'genitive', 'Stacijas tuneļa'],
         ['Zviedru vārti', 'accusative', 'Zviedru vārtiem'],
         ['Zviedru vārti', 'dative', 'Zviedru vārtiem'],
-        ['Zviedru vārti', 'genitive', 'Zviedru vārtu']
+        ['Zviedru vārti', 'genitive', 'Zviedru vārtu'],
+        ['Brīvības iela (A2)', 'accusative', 'Brīvības ielu (A2)'],
+        ['Brīvības iela (A2)', 'dative', 'Brīvības ielai (A2)'],
+        ['Brīvības iela (A2)', 'genitive', 'Brīvības ielas (A2)'],
+        ['Kalpaka bulvāris (P1)', 'accusative', 'Kalpaka bulvāri (P1)'],
+        ['Kalpaka bulvāris (P1)', 'dative', 'Kalpaka bulvārim (P1)'],
+        ['Kalpaka bulvāris (P1)', 'genitive', 'Kalpaka bulvāra (P1)']
     ],
     'ru': [
         ['Бармалеева улица', 'accusative', 'Бармалееву улицу'],
