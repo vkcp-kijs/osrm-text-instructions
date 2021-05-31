@@ -401,9 +401,9 @@
                     "destination": "Aplī nogriezieties virzienā uz {destination}"
                 },
                 "name": {
-                    "default": "Turpiniet kustību pa {rotary_name:dative}",
-                    "name": "Brauciet {rotary_name:accusative} un nogriezieties uz {way_name:accusative}",
-                    "destination": "Brauciet {rotary_name:accusative} un nogriezieties virzienā uz {destination}"
+                    "default": "Turpiniet kustību pa {rotary_name:accusative}",
+                    "name": "Brauciet pa {rotary_name:accusative} un nogriezieties uz {way_name:accusative}",
+                    "destination": "Brauciet pa {rotary_name:accusative} un nogriezieties virzienā uz {destination}"
                 },
                 "exit": {
                     "default": "No apļa izbrauciet {exit_number} izejā",
@@ -411,9 +411,9 @@
                     "destination": "Aplī nogriezieties {exit_number} izejā virzienā uz {destination}"
                 },
                 "name_exit": {
-                    "default": "Brauciet {rotary_name:accusative} un nogriezieties {exit_number} izejā",
-                    "name": "Brauciet {rotary_name:accusative} un nogriezieties {exit_number} izej;a uz {way_name:accusative}",
-                    "destination": "Brauciet {rotary_name:accusative} un nogriezieties {exit_number} izejā virzienā uz {destination}"
+                    "default": "Brauciet pa {rotary_name:accusative} un nogriezieties {exit_number} izejā",
+                    "name": "Brauciet pa {rotary_name:accusative} un nogriezieties {exit_number} izejā uz {way_name:accusative}",
+                    "destination": "Brauciet pa {rotary_name:accusative} un nogriezieties {exit_number} izejā virzienā uz {destination}"
                 }
             }
         },
