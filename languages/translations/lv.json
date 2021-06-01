@@ -5,16 +5,16 @@
     "v5": {
         "constants": {
             "ordinalize": {
-                "1": "pirmo",
-                "2": "otro",
-                "3": "trešo",
-                "4": "ceturto",
-                "5": "piekto",
-                "6": "sesto",
-                "7": "septīto",
-                "8": "astoto",
-                "9": "devīto",
-                "10": "desmito"
+                "1": "pirmais",
+                "2": "otrais",
+                "3": "trešais",
+                "4": "ceturtā",
+                "5": "piektais",
+                "6": "sestais",
+                "7": "septītais",
+                "8": "astotais",
+                "9": "devītais",
+                "10": "desmitais"
             },
             "direction": {
                 "north": "ziemeļu",
@@ -59,57 +59,57 @@
         },
         "arrive": {
             "default": {
-                "default": "Jūs nonācāt savā {nth} galamērķī",
-                "upcoming": "Jūs tūlīt sasniegsiet savu {nth} galamērķi",
+                "default": "Jūs nonācāt savā {nth:accusative} galamērķī",
+                "upcoming": "Jūs tūlīt sasniegsiet savu {nth:accusative} galamērķi",
                 "short": "Jūs esat klāt!",
                 "short-upcoming": "Jūs tūlīt būsiet klāt",
                 "named": "Jūs esat galamērķī, {waypoint_name}"
             },
             "left": {
-                "default": "Jūs nonācāt savā {nth} galamērķī, tas atrodas pa kreisi",
-                "upcoming": "Jūs tūlīt sasniegsiet savu {nth} galamērķi, tas būs kreisajā pusē",
+                "default": "Jūs nonācāt savā {nth:accusative} galamērķī, tas atrodas pa kreisi",
+                "upcoming": "Jūs tūlīt sasniegsiet savu {nth:accusative} galamērķi, tas būs kreisajā pusē",
                 "short": "Jūs esat klāt!",
                 "short-upcoming": "Jūs tūlīt būsiet klāt",
                 "named": "Jūs esat galamērķī {waypoint_name}, tas atrodas pa kreisi"
             },
             "right": {
-                "default": "Jūs esat sasniedzis {nth} galamērķi, tas atrodas pa labi",
-                "upcoming": "Jūs tūlīt sasniegsiet savu {nth} galamērķi, tas būs labajā pusē",
+                "default": "Jūs esat sasniedzis {nth:accusative} galamērķi, tas atrodas pa labi",
+                "upcoming": "Jūs tūlīt sasniegsiet savu {nth:accusative} galamērķi, tas būs labajā pusē",
                 "short": "Jūs esat klāt!",
                 "short-upcoming": "Jūs tūlīt būsiet klāt",
                 "named": "Jūs esat galamērķī, {waypoint_name}, tas atrodas pa labi"
             },
             "sharp left": {
-                "default": "Jūs esat sasniedzis {nth} galamērķi, tas atrodas aizmugurē pa kreisi",
-                "upcoming": "Jūs tūlīt sasniegsiet savu {nth} galamērķi, tas būs aizmugurē pa kreisi",
+                "default": "Jūs esat sasniedzis {nth:accusative} galamērķi, tas atrodas aizmugurē pa kreisi",
+                "upcoming": "Jūs tūlīt sasniegsiet savu {nth:accusative} galamērķi, tas būs aizmugurē pa kreisi",
                 "short": "Jūs esat klāt!",
                 "short-upcoming": "Jūs tūlīt būsiet klāt",
                 "named": "Jūs esat galamērķī, {waypoint_name}, tas atrodas aizmugurē pa kreisi"
             },
             "sharp right": {
-                "default": "Jūs esat sasniedzis {nth} galamērķi, tas atrodas aizmugurē pa labi",
-                "upcoming": "Jūs tūlīt sasniegsiet savu {nth} galamērķi, tas būs aizmugurē pa labi",
+                "default": "Jūs esat sasniedzis {nth:accusative} galamērķi, tas atrodas aizmugurē pa labi",
+                "upcoming": "Jūs tūlīt sasniegsiet savu {nth:accusative} galamērķi, tas būs aizmugurē pa labi",
                 "short": "Jūs esat klāt!",
                 "short-upcoming": "Jūs tūlīt būsiet klāt",
                 "named": "Jūs esat galamērķī, {waypoint_name}, tas atrodas aizmugurē pa labi"
             },
             "slight right": {
-                "default": "Jūs esat sasniedzis {nth} galamērķi, tas atrodas priekšā pa labi",
-                 "upcoming": "Jūs tūlīt sasniegsiet savu {nth} galamērķi, tas būs priekšā pa labi",
+                "default": "Jūs esat sasniedzis {nth:accusative} galamērķi, tas atrodas priekšā pa labi",
+                 "upcoming": "Jūs tūlīt sasniegsiet savu {nth:accusative} galamērķi, tas būs priekšā pa labi",
                 "short": "Jūs esat klāt!",
                 "short-upcoming": "Jūs tūlīt būsiet klāt",
                 "named": "Jūs esat galamērķī, {waypoint_name}, tas atrodas priekšā pa labi"
             },
             "slight left": {
-                "default": "Jūs esat sasniedzis {nth} galamērķi, tas atrodas priekšā pa kreisi",
-                 "upcoming": "Jūs tūlīt sasniegsiet savu {nth} galamērķi, tas būs priekšā pa kreisi",
+                "default": "Jūs esat sasniedzis {nth:accusative} galamērķi, tas atrodas priekšā pa kreisi",
+                 "upcoming": "Jūs tūlīt sasniegsiet savu {nth:accusative} galamērķi, tas būs priekšā pa kreisi",
                 "short": "Jūs esat klāt!",
                 "short-upcoming": "Jūs tūlīt būsiet klāt",
                 "named": "Jūs esat galamērķī, {waypoint_name}, tas atrodas priekšā pa kreisi"
             },
             "straight": {
-                "default": "Jūs esat sasniedzis {nth} galamērķi, tas atrodas tieši priekšā",
-                "upcoming": "Jūs tūlīt sasniegsiet savu {nth} galamērķi, tas būs tieši priekšā",
+                "default": "Jūs esat sasniedzis {nth:accusative} galamērķi, tas atrodas tieši priekšā",
+                "upcoming": "Jūs tūlīt sasniegsiet savu {nth:accusative} galamērķi, tas būs tieši priekšā",
                 "short": "Jūs esat klāt!",
                 "short-upcoming": "Jūs tūlīt būsiet klāt",
                 "named": "Jūs esat galamērķī, {waypoint_name}, tas atrodas tieši priekšā"
@@ -406,23 +406,23 @@
                     "destination": "Brauciet pa {rotary_name:accusative} un nogriezieties virzienā uz {destination}"
                 },
                 "exit": {
-                    "default": "No apļa izbrauciet {exit_number} izejā",
-                    "name": "Aplī nogriezieties {exit_number} izejā uz {way_name:accusative}",
-                    "destination": "Aplī nogriezieties {exit_number} izejā virzienā uz {destination}"
+                    "default": "No apļa izbrauciet {exit_number:locative} izejā",
+                    "name": "Aplī nogriezieties {exit_number:locative} izejā uz {way_name:accusative}",
+                    "destination": "Aplī nogriezieties {exit_number:locative} izejā virzienā uz {destination}"
                 },
                 "name_exit": {
-                    "default": "Brauciet pa {rotary_name:accusative} un nogriezieties {exit_number} izejā",
-                    "name": "Brauciet pa {rotary_name:accusative} un nogriezieties {exit_number} izejā uz {way_name:accusative}",
-                    "destination": "Brauciet pa {rotary_name:accusative} un nogriezieties {exit_number} izejā virzienā uz {destination}"
+                    "default": "Brauciet pa {rotary_name:accusative} un nogriezieties {exit_number:locative} izejā",
+                    "name": "Brauciet pa {rotary_name:accusative} un nogriezieties {exit_number:locative} izejā uz {way_name:accusative}",
+                    "destination": "Brauciet pa {rotary_name:accusative} un nogriezieties {exit_number:locative} izejā virzienā uz {destination}"
                 }
             }
         },
         "roundabout": {
             "default": {
                 "exit": {
-                    "default": "Aplī nogriezieties {exit_number} izejā",
-                    "name": "Aplī nogriezieties {exit_number} izejā uz {way_name:accusative}",
-                    "destination": "Aplī nogriezieties {exit_number} izejā virzienā uz {destination}"
+                    "default": "Aplī nogriezieties {exit_number:locative} izejā",
+                    "name": "Aplī nogriezieties {exit_number:locative} izejā uz {way_name:accusative}",
+                    "destination": "Aplī nogriezieties {exit_number:locative} izejā virzienā uz {destination}"
                 },
                 "default": {
                     "default": "Turpiniet kustību pa apli",
