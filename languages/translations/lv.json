@@ -8,7 +8,7 @@
                 "1": "pirmais",
                 "2": "otrais",
                 "3": "trešais",
-                "4": "ceturtā",
+                "4": "ceturtais",
                 "5": "piektais",
                 "6": "sestais",
                 "7": "septītais",
@@ -180,7 +180,8 @@
                 "destination": "Turpiniet taisni virzienā {destination}",
                 "junction_name": "Turpiniet taisni pa {junction_name}"
             },
-            "uturn": {
+            "
+            ": {
                 "default": "Ceļa galā apgriezieties",
                 "name": "Apgriezieties {way_name:genitive} beigās",
                 "destination": "Ceļa galā apgriezieties {destination} virzienā",
@@ -302,7 +303,7 @@
             "uturn": {
                 "default": "Apgriezieties",
                 "name": "Apgriezieties uz {way_name:accusative}",
-                "destination": "Apgriezieties и un turpiniet kustību virzienā uz {destination}"
+                "destination": "Apgriezieties un turpiniet kustību virzienā uz {destination}"
             }
         },
         "off ramp": {
